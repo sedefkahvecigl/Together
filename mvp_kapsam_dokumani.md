@@ -3,6 +3,7 @@
 **Sürüm:** 1.0  
 **Durum:** Taslak / Geliştirme Öncesi  
 **Hedef Kitle:** 18-25 Yaş, İstanbul’daki Üniversite Öğrencileri
+**Hazırlayan:** Sedef KAHVECİOĞLU
 
 ---
 
